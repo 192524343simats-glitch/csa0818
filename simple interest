@@ -1,0 +1,5 @@
+p=int(input("principle amount="))
+r=int(input("enter the rate of value:"))
+t=int(input("enter time period"))
+sp=(p*r*t)/100
+print(sp)
