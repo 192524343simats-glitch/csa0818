@@ -6,3 +6,8 @@ while temp>0:
     sum+=rem
     temp=temp//10
 print(sum,"this is the sum of digit of the given num",num)
+
+
+output:
+enter the num:153
+9 this is the sum of digit of the given num 153
