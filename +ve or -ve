@@ -1,0 +1,10 @@
+n=int(input('enter the num:'))
+if(n>0)
+    print("+ve")
+else:
+    print("-ve")
+
+
+output:
+enter the num:5
++ve
