@@ -1,0 +1,16 @@
+n=int(input(' red=1 yellow=2 green=3 ' '\n enter the num'))
+if(n==1):
+    print("stop")
+elif(n==2):
+    print("be ready")
+elif(n==3):
+    print("go")
+else:
+    print("nothing")
+
+
+
+output:
+red=1 yellow=2 green=3 
+ enter the num2
+be ready
